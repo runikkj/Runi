@@ -1,2 +1,2 @@
-# Runi
+# runi
 Meu linktree
